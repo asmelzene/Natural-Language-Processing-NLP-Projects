@@ -28,11 +28,6 @@ Then we have training data for Sentence Order Classifier
 
 ## predicting phase
 
-对于一条投资微博，我们首先通过情感模型预测出其全文情感，然后将投
-资微博分句，对于每一句通过情感模型预测出每一句的句情感标签，同时，我
-们使用句序模型预测出每句话的一致性标签，再此可以理解为句子的置信度，
-并用此置信度对于每个句子进行加权投票得到最终情感标签。
-
 
 For a Weibo text, we first predict its sentiment by Sentiment Classifier $C_1$, and then split text into sentences. For each sentence, using $C_1$ predicts the sentiment of each sentence.
 
