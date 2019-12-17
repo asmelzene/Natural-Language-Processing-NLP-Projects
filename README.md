@@ -3,6 +3,8 @@
 
 ## Commenter-Based Prediction on the Helpfulness of Online Product Reviews [code]
 
+[code available](/Prediction on the helpfulness/)
+
 **Baselines: Implement of previously used features in the related field**
 
 • STR (Structure) (Kim et al., 2006; Xiong and Litman, 2011)
@@ -42,7 +44,10 @@ $H_{m\times n} = U^T_{m\times k}P_{k\times n}$
 H is the helpfulness matrix, U could represent user information, and P could represent product information. We use training data to obtain those information.
 
 
-## Sentence Order Sentiment Analysis of Weibo texts [code]
+## Sentence Order Sentiment Analysis of Weibo texts 
+
+[code available](/Sentence Order Based Sentiment Analysis/code)
+
 • Proposed a sentiment classification model based on sentence order information
 
 • Conducted extensive experiments on two real datasets in different languages, verified results against classical models
