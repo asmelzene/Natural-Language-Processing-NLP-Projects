@@ -1,9 +1,9 @@
 # Natural Language Processing Projects
 
 
-## Commenter-Based Prediction on the Helpfulness of Online Product Reviews [code]
+## Commenter-Based Prediction on the Helpfulness of Online Product Reviews
 
-[code available](/Prediction on the helpfulness/)
+[code available](https://github.com/zhaoyuji/Natural-Language-Processing-NLP-Projects/tree/master/Prediction%20on%20the%20helpfulness)
 
 **Baselines: Implement of previously used features in the related field**
 
@@ -46,7 +46,7 @@ H is the helpfulness matrix, U could represent user information, and P could rep
 
 ## Sentence Order Sentiment Analysis of Weibo texts 
 
-[code available](/Sentence Order Based Sentiment Analysis/code)
+[code available](https://github.com/zhaoyuji/Natural-Language-Processing-NLP-Projects/tree/master/Sentence%20Order%20Based%20Sentiment%20Analysis/code)
 
 • Proposed a sentiment classification model based on sentence order information
 
