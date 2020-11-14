@@ -9,7 +9,7 @@ Always updating :)
 
 ## 1. Commenter-Based Prediction on the Helpfulness of Online Product Reviews
 
-Joint work with @asmelzene
+Joint work with Melih Zenciroglu @asmelzene
 
 [code available](https://github.com/zhaoyuji/Natural-Language-Processing-NLP-Projects/tree/master/Prediction%20on%20the%20helpfulness)
 
@@ -81,6 +81,8 @@ H is the helpfulness matrix, U could represent user information, and P could rep
 
 
 ## 5. Sentence Order Sentiment Analysis of Weibo texts 
+
+Joint work with Yongchun Li
 
 [code available](https://github.com/zhaoyuji/Natural-Language-Processing-NLP-Projects/tree/master/Sentence%20Order%20Based%20Sentiment%20Analysis/code)
 
