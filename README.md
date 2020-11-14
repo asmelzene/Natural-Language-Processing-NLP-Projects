@@ -9,6 +9,8 @@ Always updating :)
 
 ## 1. Commenter-Based Prediction on the Helpfulness of Online Product Reviews
 
+Joint work with @asmelzene
+
 [code available](https://github.com/zhaoyuji/Natural-Language-Processing-NLP-Projects/tree/master/Prediction%20on%20the%20helpfulness)
 
 **Baselines: Implement of previously used features in the related field**
